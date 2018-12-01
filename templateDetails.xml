@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>luiscordero29</name>
+	<creationDate>2019-01-01</creationDate>
+	<author>Luis Cordero</author>
+	<authorEmail>info@luiscordero29.com</authorEmail>
+	<authorUrl>https://luiscordero29.com</authorUrl>
+	<copyright>Licencia Creative Commons Atribución 4.0 Internacional</copyright>
+	<license>Attribution 4.0 International (CC BY 4.0)</license>
+	<version>0.0.1</version>
+	<description>Luis Cordero - bootstrap template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
